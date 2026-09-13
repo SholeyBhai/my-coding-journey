@@ -2,9 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d7a5b9ac-30dc-490a-810e-f78714621fdb" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day_02/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day_03/AgeChecker.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day_03/NumberChecker.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day_03/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/Day_03/MarksChecker.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -19,6 +20,9 @@
   &quot;fromUser&quot;: false
 }</component>
   <component name="ProjectId" id="3JBwrhuXQTqijefy8gfZGicU0Nk" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -26,6 +30,7 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "Application.AgeChecker.executor": "Run",
     "Application.Main.executor": "Debug",
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
@@ -36,13 +41,15 @@
     "git-widget-placeholder": "main",
     "ignore.virus.scanning.warn.message": "true",
     "kotlin-language-version-configured": "true",
+    "node.js.detected.package.jshint": "true",
+    "node.js.selected.package.jshint": "",
     "nodejs_package_manager_path": "npm",
     "onboarding.tips.debug.path": "C:/Users/rampr/OneDrive/Desktop/Best Coders are less/my-coding-journey/01_Programming/Java/Start_Java/src/Main.java",
     "settings.editor.selected.configurable": "preferences.lookFeel"
   }
 }]]></component>
   <component name="RunManager">
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration name="AgeChecker" type="Application" factoryName="Application" temporary="true">
       <option name="ALTERNATIVE_JRE_PATH" value="21" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
       <option name="MAIN_CLASS_NAME" value="Main" />
@@ -52,7 +59,7 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.AgeChecker" />
       </list>
     </recent_temporary>
   </component>
@@ -76,5 +83,8 @@
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/Start_Java$Main.ic" NAME="Main Coverage Results" MODIFIED="1789237453596" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="true" />
   </component>
 </project>
