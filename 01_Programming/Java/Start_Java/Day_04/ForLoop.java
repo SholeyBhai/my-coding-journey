@@ -1,5 +1,32 @@
-/*create a calculator using java everything just programming
+/* practice some loops in  java programming
 
  */
-int num1= 45, num2=33;
-system.out.print("The vslue of num 1 and num 2 is");
+public class ForLoop {
+    public static void main(String[] args) {
+
+        System.out.println("Numbers 1 to 10 print using Loop:");
+
+        for (int i = 1; i <= 10; i++) {
+            System.out.println(i);
+        }
+
+
+        // Even numbers 2 to 20 so it can be 10 total
+        System.out.println("\nEven numbers 2 to 20 using  increament  option:");
+
+        for (int i = 2; i <= 20; i = i + 2) {
+            System.out.println(i);
+        }
+        // yaha par 2 ka sidha increament kar de rhe hain taaki easily option ye hi laga
+
+
+        // table Of 7
+        int number = 7;
+
+        System.out.println("\nTable of " + number + ":");
+
+        for (int i = 1; i <= 10; i++) {
+            System.out.println(number + " x " + i + " = " + (number * i));
+        }
+    }
+}
