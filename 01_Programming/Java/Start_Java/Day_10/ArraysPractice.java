@@ -106,7 +106,7 @@ public class ArraysPractice {
 
         for (int i = 0; i < numbers.length; i++) {
             if (numbers[i] == target) {
-                System.out.println(target + " is at index " + i);
+                System.out.pri                     ntln(target + " is at index " + i);
                 break;
             }
         }

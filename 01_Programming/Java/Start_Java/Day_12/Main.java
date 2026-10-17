@@ -8,7 +8,9 @@ public class Main {
         // Variables
         String name = "Ram";
         int age = 23;
-        double cgpa = 7;
+        double cgpa = 7
+
+                ;
 
         System.out.println("Name: " + name);
         System.out.println("Age: " + age);
